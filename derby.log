@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Jun 01 19:44:50 BRT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-65d5-34de-0000076f2048 
-on database directory /home/aires/git/zika-analysis/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@44d93b0 
+Sat Jun 03 13:34:12 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-6ece-97c8-00000b875310 
+on database directory /home/aires/git/zika-analysis/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5c8bffd4 
 Loaded from file:/opt/spark-2.1.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_131-b11
